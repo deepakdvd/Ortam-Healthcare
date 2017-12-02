@@ -1139,6 +1139,8 @@ span.agileits-copy.fa.fa-plus {
     color: black;
     padding: 1em 0;
     letter-spacing: 1px;
+    font-family: 'Barlow Semi Condensed', sans-serif;
+    font-weight: 700;
 }
 /* --footer-- */
   /*-- to-top --*/
