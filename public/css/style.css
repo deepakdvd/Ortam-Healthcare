@@ -1086,7 +1086,7 @@ span.apt-t2 {
 .contact-left {
     padding: 4em;
 }
-.contact-left p{color:#ababab;}
+.contact-left p{color:white;}
 .contact-list {
     margin: 2.2em 0;
     padding: 0;
@@ -1510,7 +1510,7 @@ span.agileits-copy.fa.fa-plus {
 		width: 28%;
 	}
 	#m_nav_container {
-		height: auto;
+		height: 100%;
 		width:100%;
 		padding:0;
 	}
