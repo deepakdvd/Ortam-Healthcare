@@ -1123,10 +1123,10 @@ span.agileits-copy.fa.fa-plus {
     outline: 4px solid #fff;
 }
 .copy-right{
-    color: #000;
+    color: black;
     font-size: 1em;
-	padding: 2em 0 0;
-    background: #e64361;
+	/*padding: 2em 0 0;*/
+    background: white;
 }
 .copy-right a{
     color: #fff;
