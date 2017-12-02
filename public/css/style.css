@@ -1,15 +1,9 @@
-/*--Author: W3Layouts
-	Author URL: http://w3layouts.com
-	License: Creative Commons Attribution 3.0 Unported
-	License URL: http://creativecommons.org/licenses/by/3.0/
- --*/
-/*-- Reset Code --*/
-@import url('https://fonts.googleapis.com/css?family=Signika');
+@import url('https://fonts.googleapis.com/css?family=Barlow+Semi+Condensed');
 body { 
 	padding: 0;
 	margin: 0;
 	background: #FFF;
-	font-family: 'Signika', sans-serif;
+	font-family: 'Barlow Semi Condensed', sans-serif;
 }
 body a {
 	transition: 0.5s all;
@@ -37,7 +31,7 @@ input[type="button"], input[type="submit"], button.btn {
 h1, h2, h3, h4, h5, h6 {
 	margin: 0;
 	padding: 0;
-	font-family: 'Signika', sans-serif;
+	font-family: 'Barlow Semi Condensed', sans-serif;
 }
 ul {
 	margin: 0;
@@ -52,7 +46,7 @@ label {
 /*-- //Reset-Code --*/
 p {
 	margin: 0;
-	font-family: 'Signika', sans-serif;
+	font-family: 'Barlow Semi Condensed', sans-serif;
 	line-height: 2;
 	font-size: 1em;
 	color:#888;
@@ -471,7 +465,7 @@ i.menu-icon {
     margin-bottom:1em;
     border-radius: 10px;
 	text-align:center;
-	font-family: 'Signika', sans-serif;
+	font-family: 'Barlow Semi Condensed', sans-serif;
 }
 .h3-w3l2 {
     color: white;
@@ -482,7 +476,7 @@ i.menu-icon {
     margin-bottom:1em;
     border-radius: 10px;
     text-align:center;
-    font-family: 'Signika', sans-serif;
+    font-family: 'Barlow Semi Condensed', sans-serif;
 }
 /*-- about--*/
 .wthree-s1 {
@@ -890,7 +884,7 @@ span.apt-t1 {
     margin-right: 0.1em;
 }
 span.apt-t2 {
-    font-family: 'Signika', sans-serif;
+    font-family: 'Barlow Semi Condensed', sans-serif;
     font-weight: 800;
     color: #009fc6;
     margin-left: 0.3em;
