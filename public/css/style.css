@@ -46,7 +46,7 @@ label {
 /*-- //Reset-Code --*/
 p {
 	margin: 0;
-	font-family: 'Barlow Semi Condensed', sans-serif;
+	/*font-family: 'Barlow Semi Condensed', sans-serif;*/
 	line-height: 2;
 	font-size: 1em;
 	color:#888;
