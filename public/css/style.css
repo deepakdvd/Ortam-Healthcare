@@ -59,16 +59,16 @@ p {
 }
 /*-- header styling starts here --*/
 /*-- header styling starts here --*/
-.agileits_main{
+/*.agileits_main{
 	background:url(../images/1.jpg) no-repeat 0px 0px;
 	background-size:cover;
 	-webkit-background-size:cover;
 	-moz-background-size:cover;
 	-o-background-size:cover;
 	-ms-background-size:cover;
-}
+}*/
 .w3_agile_logo {
-	margin: 2em 0;
+	margin: 1em 0;
 }
 .w3_agile_logo h1 a{
 	font-size: 1.1em;
@@ -95,14 +95,14 @@ i.agileits-logo.fa.fa-plus {
     padding: 18em 0 23em;
 }
 .banner_text_w3layouts h3 {
-    color: #ff9d9d;
+    color: white;
     font-size: 3em;
     margin: 0;
 	letter-spacing:10px;
     text-transform: uppercase;
 }
 .banner_text_w3layouts p {
-    color: #ff9d9d;
+    color: #3498db;
     font-size: 1.3em;
     margin: 2em 0 0 0;
     letter-spacing: 6px;
@@ -500,7 +500,7 @@ i.menu-icon {
 }
 span.sicon {
     font-size: 3em;
-    color: #e64361;
+    color: #d35400;
 	display:block;
 }
 .w3-button a {
@@ -512,7 +512,7 @@ span.sicon {
     background: none;
     font-weight: 700;
     text-transform: uppercase;
-	visibility:hidden;
+	visibility:visible;
 	transition: 0.5s all;
 	-webkit-transition: 0.5s all;
 	-moz-transition: 0.5s all;
@@ -523,7 +523,7 @@ span.sicon {
     margin: 1em 0 0;
 }
 .w3-button a:hover {
-    color:  #fff;
+    color:  black;
 	transition: 0.5s all;
 	-webkit-transition: 0.5s all;
 	-moz-transition: 0.5s all;
@@ -540,7 +540,7 @@ span.sicon {
 	visibility:visible;
 }
 .wthree-s1:hover,.s1-active {
-	background:#e64361;
+	background:#2980b9;
 	border-radius:10px;
 }
 
@@ -619,7 +619,7 @@ span.sicon {
 /*-- //about --*/
 /*-- services--*/
 div#services,div#contact {
-    background: #b12a43;
+    background: #2980b9;
 }
 .services-bg {
     background: url(../images/k.jpg) no-repeat 0px 0px;
@@ -1075,7 +1075,7 @@ span.apt-t2 {
 }
 .contact-left input[type="submit"]:hover {
     background: #fff;
-    color: #b12a43;
+    color: #2980b9;
 }
 .contact-left {
     padding: 4em;
