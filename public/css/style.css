@@ -481,7 +481,7 @@ i.menu-icon {
 /*-- about--*/
 .wthree-s1 {
 	padding: 2em;
-	width:30.8%;
+	width:46%;
 	transition: 0.5s all;
 	-webkit-transition: 0.5s all;
 	-moz-transition: 0.5s all;
@@ -1207,6 +1207,10 @@ span.agileits-copy.fa.fa-plus {
 	#m_nav_menu {
 		right: 4.3%;
 	}
+
+    .wthree-s1 {
+        width: 44%;
+    }
 }
 @media screen and (max-width: 1080px){
 	#m_nav_menu {
@@ -1214,7 +1218,7 @@ span.agileits-copy.fa.fa-plus {
 		top: 3.6%;
 	}
 	.wthree-s1 {
-		width: 30.3%;
+		width: 44%;
 	}
 	.wthree-sb1.sb1 {
 		margin: 0 0.8em;
